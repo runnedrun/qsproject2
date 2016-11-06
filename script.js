@@ -10,5 +10,6 @@ goForward(100)
 turnRight()
 
 var name = "Q"
-console.log(name)
+var Name = "W"
+console.log(Name)
 
