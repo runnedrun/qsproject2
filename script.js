@@ -9,8 +9,10 @@ turnLeft()
 goForward(100)
 turnRight()
 
-var object = {
-  
+var computer = {
+  color: "silver",
+  weight: "20lb",
+  size: "40inches"
 }
 
 var name = "Q"
