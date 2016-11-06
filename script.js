@@ -7,5 +7,7 @@ turnLeft()
 goForward(100)
 turnLeft()
 goForward(100)
-turnright()
+turnRight()
 
+var name = "Q"
+console.log(name)
