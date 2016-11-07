@@ -13,4 +13,3 @@ goForward(100)
 turnRight()
 
 console.log(_heading)
-
